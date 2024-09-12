@@ -1,7 +1,9 @@
 Virtual Museum Game
 ====================
-Moved project to GitLab:
-https://gitlab.com/mjaglarz/virtual-museum
+Moved project to GitLab: https://gitlab.com/mjaglarz/virtual-museum
+
+Link to download the game: https://drive.google.com/file/d/1WUhTlRDpw2_YRxrOWZwAtJ9sRlDFXP-s/view?usp=sharing
+
 # First person game simulating a virtual walk through a museum in C++ made with Unreal Engine v5.0.3
 
 ## Abstract:
