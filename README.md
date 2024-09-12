@@ -16,9 +16,7 @@ virtual museum, game prototype, Unreal Engine 5, procedural generation, artifici
 
 ![Painting](https://github.com/user-attachments/assets/c03b4d5f-9338-43a4-b958-9cb74e451567)
 
-![Game](https://github.com/user-attachments/assets/394a63c9-ff20-4955-b335-8a952836cf7a)
-
-![Game2](https://github.com/user-attachments/assets/df31add6-7782-4375-8bbc-eb886dd64c4c)
+![Game](https://github.com/user-attachments/assets/df31add6-7782-4375-8bbc-eb886dd64c4c)
 
 #
 
