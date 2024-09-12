@@ -22,7 +22,7 @@ virtual museum, game prototype, Unreal Engine 5, procedural generation, artifici
 
 #
 
-# Gra pierwszoosobowa symulująca wirtualny spacer po muzeum w C++ wykonana na silniku Unreal Engine v5.0.3
+# Gra pierwszoosobowa symulująca wirtualny spacer po muzeum w C++ na silniku Unreal Engine v5.0.3
 
 ## Streszczenie:
 
