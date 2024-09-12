@@ -12,6 +12,14 @@ The main goal of the master's thesis is to create a prototype of an application 
 
 virtual museum, game prototype, Unreal Engine 5, procedural generation, artificial intelligence, game engines
 
+![MainMenu](https://github.com/user-attachments/assets/9b71ed56-86f8-4f2b-819f-fd34e167c1bc)
+
+![Painting](https://github.com/user-attachments/assets/c03b4d5f-9338-43a4-b958-9cb74e451567)
+
+![Game](https://github.com/user-attachments/assets/394a63c9-ff20-4955-b335-8a952836cf7a)
+
+![Game2](https://github.com/user-attachments/assets/df31add6-7782-4375-8bbc-eb886dd64c4c)
+
 #
 
 # Gra pierwszoosobowa symulująca wirtualny spacer po muzeum w C++ wykonana na silniku Unreal Engine v5.0.3
